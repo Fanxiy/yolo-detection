@@ -34,7 +34,6 @@ yolov8n.pt
 *.mp4
 *.avi
 *.jpeg
-*.png
 *.bmp
 
 *.swp
