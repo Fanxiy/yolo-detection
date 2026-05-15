@@ -30,7 +30,7 @@ models/*.onnx
 yolo26n.pt
 yolov8n.pt
 
-*.mp4
+
 *.avi
 *.jpeg
 *.bmp
