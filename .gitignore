@@ -19,10 +19,10 @@ wheels/
 .installed.cfg
 *.egg
 
+runs/detect/runs/train/exp_20260515_113653/weights/
 data/
 video_outputs/
 outputs/
-runs/
 wandb/
 latex/
 models/*.pt
@@ -32,7 +32,6 @@ yolov8n.pt
 
 
 *.avi
-*.jpeg
 *.bmp
 
 *.swp
