@@ -24,12 +24,11 @@ runs/detect/runs/train/exp_20260515_113653/weights/
 data/
 outputs/
 wandb/
-latex/
 models/*.pt
 models/*.onnx
 yolo26n.pt
 yolov8n.pt
-
+latex/
 
 *.avi
 *.bmp
