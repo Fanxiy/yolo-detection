@@ -20,7 +20,8 @@ wheels/
 *.egg
 
 data/
-videos/
+video/
+video_outputs/
 outputs/
 runs/
 wandb/
