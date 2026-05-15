@@ -19,9 +19,9 @@ wheels/
 .installed.cfg
 *.egg
 
+video_outputs/
 runs/detect/runs/train/exp_20260515_113653/weights/
 data/
-video_outputs/
 outputs/
 wandb/
 latex/

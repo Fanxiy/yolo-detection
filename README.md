@@ -10,7 +10,6 @@ project/
 │   ├── train/              # 训练集（包含images/和labels/）
 │   └── valid/              # 验证集（包含images/和labels/）
 ├── src/                     # 源代码目录
-│   ├── prepare_data.py     # 数据准备脚本
 │   ├── train.py            # 训练脚本
 │   ├── track.py            # 视频跟踪脚本
 │   ├── occlusionIDjump.py  # 遮挡分析脚本
