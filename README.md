@@ -255,9 +255,3 @@ python src/line_count.py --source video/test.mp4 --save_video
 ## 模型下载
 
 训练好的模型权重保存在`models/best.pt`，可直接使用。
-
-## 参考链接
-
-- [YOLOv8 GitHub](https://github.com/ultralytics/ultralytics)
-- [Ultralytics YOLOv8文档](https://docs.ultralytics.com/)
-- [BotSORT论文](https://arxiv.org/abs/2206.14651)
