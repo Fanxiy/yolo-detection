@@ -1,0 +1,1389 @@
+
+=== Occlusion Analysis Report ===
+Analyzed 984 consecutive frames
+Total unique track IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 15, 17, 18, 21, 25, 28, 29, 35, 36, 39, 41, 42, 43, 44, 45, 48, 49, 50, 52, 53, 55, 56, 57, 61, 64, 65, 67, 70, 71, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 86, 87, 88, 90, 92, 93, 96, 97, 98, 99, 103, 104, 105, 107, 108, 109, 110, 113, 114, 116, 117, 119, 122, 123, 125, 126, 129, 130, 131, 132, 134, 135, 136, 137, 138, 140, 141, 142, 143, 145, 147, 148, 149, 152, 154, 155, 156, 157, 159, 161, 162, 164, 165, 168, 170, 172, 173, 175, 179, 181, 182, 183, 184, 186, 187, 188, 189, 190, 192, 193, 195, 196, 198, 199, 201, 202, 203, 204, 206, 207, 209, 210, 211, 213, 214]
+
+ID continuity analysis:
+  ID 1: INTERMITTENT (possible occlusion or ID switch)
+  ID 2: INTERMITTENT (possible occlusion or ID switch)
+  ID 3: INTERMITTENT (possible occlusion or ID switch)
+  ID 4: INTERMITTENT (possible occlusion or ID switch)
+  ID 5: INTERMITTENT (possible occlusion or ID switch)
+  ID 6: INTERMITTENT (possible occlusion or ID switch)
+  ID 7: INTERMITTENT (possible occlusion or ID switch)
+  ID 8: INTERMITTENT (possible occlusion or ID switch)
+  ID 9: INTERMITTENT (possible occlusion or ID switch)
+  ID 11: INTERMITTENT (possible occlusion or ID switch)
+  ID 12: INTERMITTENT (possible occlusion or ID switch)
+  ID 13: INTERMITTENT (possible occlusion or ID switch)
+  ID 15: INTERMITTENT (possible occlusion or ID switch)
+  ID 17: INTERMITTENT (possible occlusion or ID switch)
+  ID 18: INTERMITTENT (possible occlusion or ID switch)
+  ID 21: INTERMITTENT (possible occlusion or ID switch)
+  ID 25: INTERMITTENT (possible occlusion or ID switch)
+  ID 28: INTERMITTENT (possible occlusion or ID switch)
+  ID 29: INTERMITTENT (possible occlusion or ID switch)
+  ID 35: INTERMITTENT (possible occlusion or ID switch)
+  ID 36: INTERMITTENT (possible occlusion or ID switch)
+  ID 39: INTERMITTENT (possible occlusion or ID switch)
+  ID 41: INTERMITTENT (possible occlusion or ID switch)
+  ID 42: INTERMITTENT (possible occlusion or ID switch)
+  ID 43: INTERMITTENT (possible occlusion or ID switch)
+  ID 44: INTERMITTENT (possible occlusion or ID switch)
+  ID 45: INTERMITTENT (possible occlusion or ID switch)
+  ID 48: INTERMITTENT (possible occlusion or ID switch)
+  ID 49: INTERMITTENT (possible occlusion or ID switch)
+  ID 50: INTERMITTENT (possible occlusion or ID switch)
+  ID 52: INTERMITTENT (possible occlusion or ID switch)
+  ID 53: INTERMITTENT (possible occlusion or ID switch)
+  ID 55: INTERMITTENT (possible occlusion or ID switch)
+  ID 56: INTERMITTENT (possible occlusion or ID switch)
+  ID 57: INTERMITTENT (possible occlusion or ID switch)
+  ID 61: INTERMITTENT (possible occlusion or ID switch)
+  ID 64: INTERMITTENT (possible occlusion or ID switch)
+  ID 65: INTERMITTENT (possible occlusion or ID switch)
+  ID 67: INTERMITTENT (possible occlusion or ID switch)
+  ID 70: INTERMITTENT (possible occlusion or ID switch)
+  ID 71: INTERMITTENT (possible occlusion or ID switch)
+  ID 73: INTERMITTENT (possible occlusion or ID switch)
+  ID 74: INTERMITTENT (possible occlusion or ID switch)
+  ID 75: INTERMITTENT (possible occlusion or ID switch)
+  ID 76: INTERMITTENT (possible occlusion or ID switch)
+  ID 77: INTERMITTENT (possible occlusion or ID switch)
+  ID 78: INTERMITTENT (possible occlusion or ID switch)
+  ID 79: INTERMITTENT (possible occlusion or ID switch)
+  ID 80: INTERMITTENT (possible occlusion or ID switch)
+  ID 82: INTERMITTENT (possible occlusion or ID switch)
+  ID 83: INTERMITTENT (possible occlusion or ID switch)
+  ID 86: INTERMITTENT (possible occlusion or ID switch)
+  ID 87: INTERMITTENT (possible occlusion or ID switch)
+  ID 88: INTERMITTENT (possible occlusion or ID switch)
+  ID 90: INTERMITTENT (possible occlusion or ID switch)
+  ID 92: INTERMITTENT (possible occlusion or ID switch)
+  ID 93: INTERMITTENT (possible occlusion or ID switch)
+  ID 96: INTERMITTENT (possible occlusion or ID switch)
+  ID 97: INTERMITTENT (possible occlusion or ID switch)
+  ID 98: INTERMITTENT (possible occlusion or ID switch)
+  ID 99: INTERMITTENT (possible occlusion or ID switch)
+  ID 103: INTERMITTENT (possible occlusion or ID switch)
+  ID 104: INTERMITTENT (possible occlusion or ID switch)
+  ID 105: INTERMITTENT (possible occlusion or ID switch)
+  ID 107: INTERMITTENT (possible occlusion or ID switch)
+  ID 108: INTERMITTENT (possible occlusion or ID switch)
+  ID 109: INTERMITTENT (possible occlusion or ID switch)
+  ID 110: INTERMITTENT (possible occlusion or ID switch)
+  ID 113: INTERMITTENT (possible occlusion or ID switch)
+  ID 114: INTERMITTENT (possible occlusion or ID switch)
+  ID 116: INTERMITTENT (possible occlusion or ID switch)
+  ID 117: INTERMITTENT (possible occlusion or ID switch)
+  ID 119: INTERMITTENT (possible occlusion or ID switch)
+  ID 122: INTERMITTENT (possible occlusion or ID switch)
+  ID 123: INTERMITTENT (possible occlusion or ID switch)
+  ID 125: INTERMITTENT (possible occlusion or ID switch)
+  ID 126: INTERMITTENT (possible occlusion or ID switch)
+  ID 129: INTERMITTENT (possible occlusion or ID switch)
+  ID 130: INTERMITTENT (possible occlusion or ID switch)
+  ID 131: INTERMITTENT (possible occlusion or ID switch)
+  ID 132: INTERMITTENT (possible occlusion or ID switch)
+  ID 134: INTERMITTENT (possible occlusion or ID switch)
+  ID 135: INTERMITTENT (possible occlusion or ID switch)
+  ID 136: INTERMITTENT (possible occlusion or ID switch)
+  ID 137: INTERMITTENT (possible occlusion or ID switch)
+  ID 138: INTERMITTENT (possible occlusion or ID switch)
+  ID 140: INTERMITTENT (possible occlusion or ID switch)
+  ID 141: INTERMITTENT (possible occlusion or ID switch)
+  ID 142: INTERMITTENT (possible occlusion or ID switch)
+  ID 143: INTERMITTENT (possible occlusion or ID switch)
+  ID 145: INTERMITTENT (possible occlusion or ID switch)
+  ID 147: INTERMITTENT (possible occlusion or ID switch)
+  ID 148: INTERMITTENT (possible occlusion or ID switch)
+  ID 149: INTERMITTENT (possible occlusion or ID switch)
+  ID 152: INTERMITTENT (possible occlusion or ID switch)
+  ID 154: INTERMITTENT (possible occlusion or ID switch)
+  ID 155: INTERMITTENT (possible occlusion or ID switch)
+  ID 156: INTERMITTENT (possible occlusion or ID switch)
+  ID 157: INTERMITTENT (possible occlusion or ID switch)
+  ID 159: INTERMITTENT (possible occlusion or ID switch)
+  ID 161: INTERMITTENT (possible occlusion or ID switch)
+  ID 162: INTERMITTENT (possible occlusion or ID switch)
+  ID 164: INTERMITTENT (possible occlusion or ID switch)
+  ID 165: INTERMITTENT (possible occlusion or ID switch)
+  ID 168: INTERMITTENT (possible occlusion or ID switch)
+  ID 170: INTERMITTENT (possible occlusion or ID switch)
+  ID 172: INTERMITTENT (possible occlusion or ID switch)
+  ID 173: INTERMITTENT (possible occlusion or ID switch)
+  ID 175: INTERMITTENT (possible occlusion or ID switch)
+  ID 179: INTERMITTENT (possible occlusion or ID switch)
+  ID 181: INTERMITTENT (possible occlusion or ID switch)
+  ID 182: INTERMITTENT (possible occlusion or ID switch)
+  ID 183: INTERMITTENT (possible occlusion or ID switch)
+  ID 184: INTERMITTENT (possible occlusion or ID switch)
+  ID 186: INTERMITTENT (possible occlusion or ID switch)
+  ID 187: INTERMITTENT (possible occlusion or ID switch)
+  ID 188: INTERMITTENT (possible occlusion or ID switch)
+  ID 189: INTERMITTENT (possible occlusion or ID switch)
+  ID 190: INTERMITTENT (possible occlusion or ID switch)
+  ID 192: INTERMITTENT (possible occlusion or ID switch)
+  ID 193: INTERMITTENT (possible occlusion or ID switch)
+  ID 195: INTERMITTENT (possible occlusion or ID switch)
+  ID 196: INTERMITTENT (possible occlusion or ID switch)
+  ID 198: INTERMITTENT (possible occlusion or ID switch)
+  ID 199: INTERMITTENT (possible occlusion or ID switch)
+  ID 201: INTERMITTENT (possible occlusion or ID switch)
+  ID 202: INTERMITTENT (possible occlusion or ID switch)
+  ID 203: INTERMITTENT (possible occlusion or ID switch)
+  ID 204: INTERMITTENT (possible occlusion or ID switch)
+  ID 206: INTERMITTENT (possible occlusion or ID switch)
+  ID 207: INTERMITTENT (possible occlusion or ID switch)
+  ID 209: INTERMITTENT (possible occlusion or ID switch)
+  ID 210: INTERMITTENT (possible occlusion or ID switch)
+  ID 211: INTERMITTENT (possible occlusion or ID switch)
+  ID 213: INTERMITTENT (possible occlusion or ID switch)
+  ID 214: INTERMITTENT (possible occlusion or ID switch)
+
+Checking for ID jumps:
+  Frame 7:
+    IDs disappeared: {2}
+  Frame 8:
+    New IDs appeared: {8}
+  Frame 15:
+    New IDs appeared: {9}
+  Frame 17:
+    New IDs appeared: {11}
+  Frame 18:
+    IDs disappeared: {11}
+  Frame 20:
+    IDs disappeared: {4}
+  Frame 22:
+    IDs disappeared: {9}
+  Frame 23:
+    New IDs appeared: {9}
+  Frame 24:
+    IDs disappeared: {9}
+  Frame 25:
+    New IDs appeared: {9}
+  Frame 26:
+    IDs disappeared: {9}
+  Frame 27:
+    New IDs appeared: {9}
+  Frame 32:
+    IDs disappeared: {7}
+  Frame 38:
+    New IDs appeared: {12}
+  Frame 41:
+    New IDs appeared: {13}
+  Frame 44:
+    New IDs appeared: {15}
+  Frame 45:
+    IDs disappeared: {1, 15}
+  Frame 46:
+    New IDs appeared: {1, 15}
+  Frame 47:
+    IDs disappeared: {5}
+  Frame 48:
+    IDs disappeared: {1, 3, 13}
+  Frame 49:
+    New IDs appeared: {1, 3, 13}
+  Frame 50:
+    IDs disappeared: {15}
+  Frame 51:
+    IDs disappeared: {1}
+  Frame 53:
+    New IDs appeared: {15}
+  Frame 55:
+    New IDs appeared: {17}
+  Frame 56:
+    New IDs appeared: {18}
+    IDs disappeared: {15}
+  Frame 57:
+    New IDs appeared: {1}
+  Frame 58:
+    New IDs appeared: {15}
+    IDs disappeared: {18, 3}
+  Frame 59:
+    New IDs appeared: {18}
+  Frame 60:
+    IDs disappeared: {18}
+  Frame 61:
+    IDs disappeared: {6}
+  Frame 62:
+    New IDs appeared: {18}
+  Frame 63:
+    IDs disappeared: {18}
+  Frame 66:
+    New IDs appeared: {18}
+  Frame 67:
+    IDs disappeared: {1}
+  Frame 73:
+    IDs disappeared: {18}
+  Frame 74:
+    New IDs appeared: {18}
+  Frame 75:
+    New IDs appeared: {21}
+    IDs disappeared: {18}
+  Frame 76:
+    New IDs appeared: {18}
+  Frame 77:
+    IDs disappeared: {18}
+  Frame 79:
+    New IDs appeared: {18}
+  Frame 80:
+    IDs disappeared: {18}
+  Frame 82:
+    IDs disappeared: {13}
+  Frame 83:
+    New IDs appeared: {13}
+  Frame 84:
+    IDs disappeared: {8}
+  Frame 85:
+    IDs disappeared: {9}
+  Frame 86:
+    IDs disappeared: {13}
+  Frame 88:
+    New IDs appeared: {9, 25}
+  Frame 89:
+    IDs disappeared: {9}
+  Frame 90:
+    New IDs appeared: {28}
+    IDs disappeared: {25}
+  Frame 91:
+    New IDs appeared: {25}
+  Frame 92:
+    New IDs appeared: {29}
+  Frame 96:
+    IDs disappeared: {28}
+  Frame 97:
+    New IDs appeared: {28}
+  Frame 98:
+    New IDs appeared: {35}
+    IDs disappeared: {28}
+  Frame 99:
+    New IDs appeared: {28}
+    IDs disappeared: {35}
+  Frame 100:
+    IDs disappeared: {29}
+  Frame 101:
+    New IDs appeared: {29}
+  Frame 103:
+    IDs disappeared: {28}
+  Frame 104:
+    New IDs appeared: {36}
+    IDs disappeared: {29, 21}
+  Frame 105:
+    IDs disappeared: {36}
+  Frame 106:
+    New IDs appeared: {28, 29}
+  Frame 109:
+    New IDs appeared: {39}
+  Frame 110:
+    IDs disappeared: {28, 39}
+  Frame 111:
+    New IDs appeared: {28, 39}
+    IDs disappeared: {29}
+  Frame 112:
+    New IDs appeared: {29}
+  Frame 113:
+    IDs disappeared: {25, 28}
+  Frame 114:
+    New IDs appeared: {25}
+    IDs disappeared: {12}
+  Frame 116:
+    New IDs appeared: {12}
+  Frame 117:
+    IDs disappeared: {39}
+  Frame 118:
+    New IDs appeared: {41, 42, 39}
+    IDs disappeared: {15}
+  Frame 119:
+    IDs disappeared: {42, 12, 39}
+  Frame 120:
+    New IDs appeared: {42, 43, 39}
+  Frame 121:
+    IDs disappeared: {41}
+  Frame 122:
+    New IDs appeared: {41, 15}
+  Frame 123:
+    IDs disappeared: {17}
+  Frame 124:
+    IDs disappeared: {15}
+  Frame 125:
+    New IDs appeared: {17}
+    IDs disappeared: {39}
+  Frame 130:
+    IDs disappeared: {17}
+  Frame 131:
+    New IDs appeared: {44}
+    IDs disappeared: {41}
+  Frame 136:
+    IDs disappeared: {44}
+  Frame 137:
+    New IDs appeared: {44, 39}
+  Frame 139:
+    IDs disappeared: {29}
+  Frame 141:
+    New IDs appeared: {29}
+  Frame 144:
+    IDs disappeared: {29}
+  Frame 145:
+    New IDs appeared: {29}
+    IDs disappeared: {44}
+  Frame 146:
+    IDs disappeared: {29, 39}
+  Frame 147:
+    New IDs appeared: {29}
+  Frame 148:
+    New IDs appeared: {44}
+  Frame 152:
+    IDs disappeared: {29}
+  Frame 153:
+    IDs disappeared: {25}
+  Frame 156:
+    IDs disappeared: {44}
+  Frame 159:
+    New IDs appeared: {44}
+  Frame 160:
+    New IDs appeared: {45}
+  Frame 161:
+    IDs disappeared: {45}
+  Frame 162:
+    New IDs appeared: {45}
+  Frame 168:
+    IDs disappeared: {42}
+  Frame 169:
+    New IDs appeared: {42}
+    IDs disappeared: {45}
+  Frame 170:
+    New IDs appeared: {45}
+    IDs disappeared: {42}
+  Frame 176:
+    New IDs appeared: {48}
+  Frame 182:
+    New IDs appeared: {49}
+  Frame 183:
+    New IDs appeared: {50}
+  Frame 186:
+    New IDs appeared: {42}
+  Frame 187:
+    IDs disappeared: {42}
+  Frame 189:
+    New IDs appeared: {52}
+  Frame 194:
+    IDs disappeared: {52}
+  Frame 195:
+    New IDs appeared: {52}
+  Frame 197:
+    IDs disappeared: {52}
+  Frame 199:
+    New IDs appeared: {52}
+    IDs disappeared: {44}
+  Frame 200:
+    New IDs appeared: {44}
+  Frame 201:
+    New IDs appeared: {53}
+    IDs disappeared: {43}
+  Frame 204:
+    IDs disappeared: {44}
+  Frame 205:
+    New IDs appeared: {43}
+  Frame 206:
+    IDs disappeared: {43}
+  Frame 207:
+    IDs disappeared: {45}
+  Frame 211:
+    IDs disappeared: {48}
+  Frame 212:
+    New IDs appeared: {43}
+  Frame 213:
+    IDs disappeared: {43}
+  Frame 214:
+    IDs disappeared: {53}
+  Frame 215:
+    New IDs appeared: {53}
+  Frame 217:
+    IDs disappeared: {49, 53}
+  Frame 219:
+    New IDs appeared: {53}
+  Frame 220:
+    New IDs appeared: {49}
+  Frame 221:
+    New IDs appeared: {55}
+  Frame 223:
+    IDs disappeared: {49}
+  Frame 224:
+    New IDs appeared: {49}
+  Frame 228:
+    IDs disappeared: {49, 55}
+  Frame 229:
+    New IDs appeared: {56, 57}
+  Frame 230:
+    New IDs appeared: {55}
+  Frame 236:
+    IDs disappeared: {53}
+  Frame 237:
+    New IDs appeared: {53}
+    IDs disappeared: {55}
+  Frame 238:
+    New IDs appeared: {61, 55}
+  Frame 239:
+    IDs disappeared: {52}
+  Frame 240:
+    IDs disappeared: {61, 53}
+  Frame 242:
+    New IDs appeared: {53}
+  Frame 244:
+    New IDs appeared: {64}
+    IDs disappeared: {50, 53}
+  Frame 245:
+    New IDs appeared: {50}
+    IDs disappeared: {64}
+  Frame 246:
+    New IDs appeared: {64}
+    IDs disappeared: {50}
+  Frame 247:
+    New IDs appeared: {50}
+    IDs disappeared: {56, 57}
+  Frame 248:
+    New IDs appeared: {56}
+    IDs disappeared: {50, 55}
+  Frame 251:
+    New IDs appeared: {55}
+  Frame 252:
+    IDs disappeared: {55}
+  Frame 253:
+    New IDs appeared: {55}
+  Frame 254:
+    New IDs appeared: {50}
+  Frame 255:
+    IDs disappeared: {64}
+  Frame 257:
+    New IDs appeared: {64}
+  Frame 258:
+    IDs disappeared: {56, 50, 64}
+  Frame 259:
+    New IDs appeared: {56}
+    IDs disappeared: {55}
+  Frame 260:
+    New IDs appeared: {64, 65}
+  Frame 261:
+    New IDs appeared: {55}
+    IDs disappeared: {64}
+  Frame 262:
+    New IDs appeared: {64}
+  Frame 263:
+    IDs disappeared: {55}
+  Frame 264:
+    IDs disappeared: {56, 64}
+  Frame 265:
+    New IDs appeared: {56}
+  Frame 266:
+    New IDs appeared: {64, 67, 55}
+  Frame 271:
+    IDs disappeared: {64, 55}
+  Frame 273:
+    New IDs appeared: {55}
+  Frame 274:
+    New IDs appeared: {64}
+    IDs disappeared: {55}
+  Frame 275:
+    IDs disappeared: {64}
+  Frame 276:
+    New IDs appeared: {64}
+    IDs disappeared: {67}
+  Frame 277:
+    New IDs appeared: {67}
+  Frame 278:
+    New IDs appeared: {55}
+  Frame 279:
+    IDs disappeared: {55}
+  Frame 280:
+    New IDs appeared: {55}
+  Frame 281:
+    IDs disappeared: {55}
+  Frame 282:
+    New IDs appeared: {55}
+  Frame 286:
+    New IDs appeared: {70}
+  Frame 287:
+    IDs disappeared: {70, 55}
+  Frame 288:
+    New IDs appeared: {70}
+  Frame 289:
+    IDs disappeared: {64, 70}
+  Frame 291:
+    IDs disappeared: {67}
+  Frame 292:
+    New IDs appeared: {64, 70}
+  Frame 293:
+    New IDs appeared: {67}
+  Frame 294:
+    IDs disappeared: {67}
+  Frame 295:
+    New IDs appeared: {67}
+  Frame 296:
+    IDs disappeared: {64}
+  Frame 298:
+    IDs disappeared: {67}
+  Frame 299:
+    New IDs appeared: {64, 67}
+  Frame 303:
+    New IDs appeared: {71}
+  Frame 304:
+    IDs disappeared: {64, 67}
+  Frame 306:
+    New IDs appeared: {64}
+  Frame 307:
+    IDs disappeared: {64}
+  Frame 308:
+    IDs disappeared: {56}
+  Frame 309:
+    New IDs appeared: {56}
+  Frame 312:
+    IDs disappeared: {71}
+  Frame 313:
+    New IDs appeared: {71}
+  Frame 318:
+    New IDs appeared: {73}
+    IDs disappeared: {56}
+  Frame 321:
+    IDs disappeared: {65}
+  Frame 322:
+    New IDs appeared: {65}
+    IDs disappeared: {73}
+  Frame 323:
+    New IDs appeared: {73}
+  Frame 325:
+    IDs disappeared: {65}
+  Frame 328:
+    New IDs appeared: {74}
+  Frame 331:
+    IDs disappeared: {70}
+  Frame 332:
+    New IDs appeared: {75, 70}
+  Frame 334:
+    IDs disappeared: {70}
+  Frame 337:
+    New IDs appeared: {76}
+  Frame 338:
+    IDs disappeared: {75}
+  Frame 339:
+    New IDs appeared: {75}
+  Frame 344:
+    IDs disappeared: {75}
+  Frame 346:
+    New IDs appeared: {77}
+  Frame 347:
+    New IDs appeared: {75}
+    IDs disappeared: {74}
+  Frame 349:
+    New IDs appeared: {78}
+  Frame 350:
+    New IDs appeared: {74}
+  Frame 351:
+    IDs disappeared: {74, 78}
+  Frame 353:
+    New IDs appeared: {79}
+  Frame 356:
+    New IDs appeared: {78}
+  Frame 357:
+    New IDs appeared: {80}
+  Frame 358:
+    IDs disappeared: {71}
+  Frame 359:
+    New IDs appeared: {82}
+    IDs disappeared: {80}
+  Frame 360:
+    New IDs appeared: {71}
+  Frame 361:
+    New IDs appeared: {83}
+  Frame 363:
+    New IDs appeared: {86}
+  Frame 365:
+    New IDs appeared: {87}
+    IDs disappeared: {71}
+  Frame 370:
+    IDs disappeared: {86}
+  Frame 371:
+    New IDs appeared: {86}
+    IDs disappeared: {83}
+  Frame 372:
+    IDs disappeared: {86}
+  Frame 373:
+    New IDs appeared: {86}
+  Frame 375:
+    New IDs appeared: {88}
+    IDs disappeared: {73}
+  Frame 376:
+    New IDs appeared: {73}
+    IDs disappeared: {88}
+  Frame 378:
+    New IDs appeared: {80}
+    IDs disappeared: {73}
+  Frame 381:
+    IDs disappeared: {75}
+  Frame 383:
+    New IDs appeared: {75}
+  Frame 384:
+    New IDs appeared: {90}
+  Frame 385:
+    IDs disappeared: {90, 75, 78}
+  Frame 386:
+    New IDs appeared: {78}
+  Frame 387:
+    New IDs appeared: {90}
+  Frame 388:
+    IDs disappeared: {78}
+  Frame 389:
+    IDs disappeared: {90}
+  Frame 391:
+    New IDs appeared: {92, 93}
+  Frame 393:
+    New IDs appeared: {90}
+    IDs disappeared: {93}
+  Frame 394:
+    New IDs appeared: {96}
+    IDs disappeared: {76}
+  Frame 395:
+    New IDs appeared: {76, 93}
+    IDs disappeared: {96, 90}
+  Frame 396:
+    IDs disappeared: {80, 86, 87}
+  Frame 397:
+    New IDs appeared: {80, 97, 98, 87}
+    IDs disappeared: {77}
+  Frame 398:
+    New IDs appeared: {77}
+    IDs disappeared: {80, 87}
+  Frame 399:
+    New IDs appeared: {80, 87}
+    IDs disappeared: {97, 98, 77}
+  Frame 400:
+    New IDs appeared: {77}
+    IDs disappeared: {80, 87}
+  Frame 401:
+    New IDs appeared: {90}
+  Frame 402:
+    IDs disappeared: {90, 77}
+  Frame 403:
+    New IDs appeared: {80, 98}
+  Frame 404:
+    New IDs appeared: {90, 99}
+    IDs disappeared: {80, 98}
+  Frame 405:
+    IDs disappeared: {82, 99}
+  Frame 406:
+    New IDs appeared: {98, 99}
+  Frame 407:
+    IDs disappeared: {98, 93}
+  Frame 408:
+    New IDs appeared: {98, 93}
+    IDs disappeared: {76}
+  Frame 410:
+    New IDs appeared: {76}
+  Frame 412:
+    IDs disappeared: {98}
+  Frame 413:
+    New IDs appeared: {98}
+  Frame 414:
+    IDs disappeared: {98, 90}
+  Frame 415:
+    New IDs appeared: {98, 90}
+  Frame 416:
+    New IDs appeared: {103}
+    IDs disappeared: {98, 99}
+  Frame 417:
+    IDs disappeared: {90, 93}
+  Frame 418:
+    New IDs appeared: {104, 93}
+  Frame 419:
+    New IDs appeared: {98, 99, 90}
+    IDs disappeared: {104}
+  Frame 420:
+    New IDs appeared: {104}
+    IDs disappeared: {98, 76}
+  Frame 421:
+    New IDs appeared: {98}
+    IDs disappeared: {104, 90}
+  Frame 422:
+    New IDs appeared: {90}
+  Frame 424:
+    IDs disappeared: {90}
+  Frame 425:
+    IDs disappeared: {99}
+  Frame 426:
+    New IDs appeared: {99}
+  Frame 427:
+    New IDs appeared: {76}
+  Frame 431:
+    IDs disappeared: {93}
+  Frame 432:
+    New IDs appeared: {93}
+    IDs disappeared: {99, 79}
+  Frame 433:
+    New IDs appeared: {105, 99}
+  Frame 434:
+    IDs disappeared: {99}
+  Frame 435:
+    IDs disappeared: {105}
+  Frame 439:
+    New IDs appeared: {107}
+    IDs disappeared: {76}
+  Frame 440:
+    New IDs appeared: {108, 79}
+  Frame 442:
+    IDs disappeared: {108, 79}
+  Frame 444:
+    New IDs appeared: {108}
+  Frame 446:
+    New IDs appeared: {104, 109}
+    IDs disappeared: {98, 108}
+  Frame 447:
+    New IDs appeared: {98}
+  Frame 448:
+    New IDs appeared: {108}
+    IDs disappeared: {104, 98}
+  Frame 449:
+    New IDs appeared: {104}
+    IDs disappeared: {108, 93}
+  Frame 450:
+    New IDs appeared: {93}
+  Frame 451:
+    New IDs appeared: {98, 108}
+    IDs disappeared: {104}
+  Frame 452:
+    IDs disappeared: {98, 93}
+  Frame 453:
+    New IDs appeared: {93}
+  Frame 455:
+    IDs disappeared: {108}
+  Frame 456:
+    New IDs appeared: {108}
+  Frame 458:
+    IDs disappeared: {93}
+  Frame 460:
+    New IDs appeared: {110}
+  Frame 463:
+    IDs disappeared: {108}
+  Frame 464:
+    New IDs appeared: {108}
+  Frame 465:
+    IDs disappeared: {108}
+  Frame 466:
+    New IDs appeared: {108}
+    IDs disappeared: {92}
+  Frame 467:
+    New IDs appeared: {92}
+  Frame 470:
+    New IDs appeared: {93}
+  Frame 471:
+    IDs disappeared: {108}
+  Frame 472:
+    IDs disappeared: {93}
+  Frame 474:
+    New IDs appeared: {93}
+  Frame 476:
+    IDs disappeared: {93}
+  Frame 479:
+    IDs disappeared: {92}
+  Frame 484:
+    IDs disappeared: {109}
+  Frame 485:
+    IDs disappeared: {110}
+  Frame 486:
+    New IDs appeared: {113, 109}
+  Frame 488:
+    New IDs appeared: {110}
+    IDs disappeared: {109}
+  Frame 490:
+    IDs disappeared: {103}
+  Frame 492:
+    IDs disappeared: {113}
+  Frame 493:
+    New IDs appeared: {113, 114}
+  Frame 496:
+    IDs disappeared: {113}
+  Frame 497:
+    New IDs appeared: {113}
+  Frame 499:
+    IDs disappeared: {114}
+  Frame 500:
+    New IDs appeared: {114}
+  Frame 503:
+    IDs disappeared: {107, 110}
+  Frame 504:
+    New IDs appeared: {107, 116, 110}
+  Frame 505:
+    New IDs appeared: {117}
+    IDs disappeared: {116}
+  Frame 506:
+    IDs disappeared: {110}
+  Frame 507:
+    New IDs appeared: {110}
+  Frame 509:
+    New IDs appeared: {119}
+  Frame 512:
+    IDs disappeared: {107}
+  Frame 516:
+    IDs disappeared: {119}
+  Frame 517:
+    New IDs appeared: {119}
+  Frame 518:
+    IDs disappeared: {119}
+  Frame 519:
+    IDs disappeared: {110}
+  Frame 520:
+    New IDs appeared: {110, 119}
+  Frame 521:
+    New IDs appeared: {122}
+    IDs disappeared: {119}
+  Frame 522:
+    New IDs appeared: {119}
+  Frame 523:
+    IDs disappeared: {122, 119}
+  Frame 524:
+    New IDs appeared: {119}
+  Frame 525:
+    New IDs appeared: {122}
+    IDs disappeared: {119}
+  Frame 526:
+    New IDs appeared: {119}
+  Frame 530:
+    IDs disappeared: {122}
+  Frame 531:
+    New IDs appeared: {122}
+  Frame 532:
+    IDs disappeared: {122}
+  Frame 533:
+    New IDs appeared: {122}
+  Frame 534:
+    IDs disappeared: {119}
+  Frame 535:
+    New IDs appeared: {119}
+  Frame 536:
+    IDs disappeared: {119}
+  Frame 537:
+    IDs disappeared: {110}
+  Frame 538:
+    IDs disappeared: {114}
+  Frame 539:
+    New IDs appeared: {110}
+  Frame 541:
+    New IDs appeared: {123, 119}
+  Frame 542:
+    IDs disappeared: {123}
+  Frame 544:
+    IDs disappeared: {119}
+  Frame 547:
+    New IDs appeared: {125}
+  Frame 548:
+    IDs disappeared: {125}
+  Frame 549:
+    New IDs appeared: {125}
+  Frame 550:
+    New IDs appeared: {123}
+    IDs disappeared: {122}
+  Frame 551:
+    IDs disappeared: {123}
+  Frame 552:
+    IDs disappeared: {113, 110}
+  Frame 553:
+    New IDs appeared: {122}
+  Frame 554:
+    IDs disappeared: {122}
+  Frame 555:
+    New IDs appeared: {126}
+  Frame 559:
+    IDs disappeared: {125}
+  Frame 561:
+    New IDs appeared: {125}
+  Frame 563:
+    IDs disappeared: {126}
+  Frame 564:
+    New IDs appeared: {126}
+  Frame 566:
+    New IDs appeared: {110}
+  Frame 567:
+    IDs disappeared: {126}
+  Frame 568:
+    New IDs appeared: {126}
+    IDs disappeared: {110}
+  Frame 571:
+    New IDs appeared: {129}
+  Frame 572:
+    IDs disappeared: {125, 126}
+  Frame 573:
+    New IDs appeared: {126}
+  Frame 574:
+    New IDs appeared: {130}
+  Frame 575:
+    New IDs appeared: {125}
+  Frame 576:
+    IDs disappeared: {125}
+  Frame 577:
+    IDs disappeared: {117}
+  Frame 578:
+    New IDs appeared: {117}
+  Frame 580:
+    IDs disappeared: {126}
+  Frame 581:
+    New IDs appeared: {126}
+  Frame 584:
+    IDs disappeared: {117, 126}
+  Frame 585:
+    New IDs appeared: {117}
+  Frame 586:
+    New IDs appeared: {126}
+  Frame 600:
+    IDs disappeared: {117}
+  Frame 603:
+    New IDs appeared: {117}
+  Frame 604:
+    IDs disappeared: {130, 117}
+  Frame 618:
+    New IDs appeared: {131}
+  Frame 620:
+    IDs disappeared: {126}
+  Frame 621:
+    IDs disappeared: {129}
+  Frame 622:
+    New IDs appeared: {126}
+  Frame 627:
+    IDs disappeared: {126}
+  Frame 631:
+    New IDs appeared: {126}
+  Frame 634:
+    IDs disappeared: {126}
+  Frame 636:
+    New IDs appeared: {132}
+  Frame 650:
+    New IDs appeared: {134}
+  Frame 651:
+    IDs disappeared: {134}
+  Frame 652:
+    New IDs appeared: {134}
+  Frame 654:
+    New IDs appeared: {135}
+  Frame 655:
+    IDs disappeared: {134}
+  Frame 657:
+    New IDs appeared: {134}
+  Frame 658:
+    IDs disappeared: {134}
+  Frame 659:
+    New IDs appeared: {134}
+  Frame 661:
+    IDs disappeared: {134}
+  Frame 663:
+    New IDs appeared: {136}
+    IDs disappeared: {131}
+  Frame 665:
+    New IDs appeared: {131}
+  Frame 666:
+    New IDs appeared: {134}
+  Frame 675:
+    IDs disappeared: {134}
+  Frame 676:
+    New IDs appeared: {134}
+  Frame 687:
+    New IDs appeared: {137}
+    IDs disappeared: {134}
+  Frame 688:
+    New IDs appeared: {134}
+  Frame 690:
+    New IDs appeared: {138}
+    IDs disappeared: {134, 135}
+  Frame 691:
+    New IDs appeared: {134, 135}
+  Frame 692:
+    IDs disappeared: {135}
+  Frame 693:
+    IDs disappeared: {134}
+  Frame 694:
+    New IDs appeared: {134}
+  Frame 695:
+    IDs disappeared: {138}
+  Frame 696:
+    IDs disappeared: {134}
+  Frame 697:
+    IDs disappeared: {131}
+  Frame 698:
+    New IDs appeared: {138, 131, 140}
+  Frame 700:
+    New IDs appeared: {134}
+    IDs disappeared: {140, 132}
+  Frame 701:
+    New IDs appeared: {140, 132}
+    IDs disappeared: {134}
+  Frame 703:
+    New IDs appeared: {134}
+    IDs disappeared: {132}
+  Frame 704:
+    IDs disappeared: {140, 134}
+  Frame 705:
+    New IDs appeared: {140}
+  Frame 707:
+    New IDs appeared: {134}
+  Frame 709:
+    New IDs appeared: {141}
+  Frame 711:
+    IDs disappeared: {131}
+  Frame 712:
+    New IDs appeared: {142}
+    IDs disappeared: {141}
+  Frame 714:
+    New IDs appeared: {141}
+  Frame 716:
+    New IDs appeared: {131}
+    IDs disappeared: {141}
+  Frame 719:
+    IDs disappeared: {134}
+  Frame 721:
+    New IDs appeared: {141}
+  Frame 722:
+    IDs disappeared: {141}
+  Frame 724:
+    IDs disappeared: {142}
+  Frame 727:
+    IDs disappeared: {131}
+  Frame 734:
+    IDs disappeared: {138}
+  Frame 736:
+    New IDs appeared: {138, 143}
+  Frame 747:
+    New IDs appeared: {145}
+    IDs disappeared: {140, 143}
+  Frame 748:
+    New IDs appeared: {143}
+  Frame 750:
+    IDs disappeared: {136}
+  Frame 751:
+    New IDs appeared: {136}
+  Frame 755:
+    New IDs appeared: {147}
+  Frame 756:
+    New IDs appeared: {148, 149}
+  Frame 758:
+    IDs disappeared: {149}
+  Frame 759:
+    New IDs appeared: {149}
+    IDs disappeared: {145, 138}
+  Frame 760:
+    New IDs appeared: {145}
+    IDs disappeared: {149}
+  Frame 761:
+    New IDs appeared: {149}
+  Frame 762:
+    IDs disappeared: {145, 149}
+  Frame 764:
+    New IDs appeared: {145, 149}
+  Frame 765:
+    IDs disappeared: {149}
+  Frame 766:
+    New IDs appeared: {149}
+    IDs disappeared: {145}
+  Frame 773:
+    IDs disappeared: {136}
+  Frame 774:
+    IDs disappeared: {149}
+  Frame 776:
+    New IDs appeared: {152}
+  Frame 777:
+    IDs disappeared: {152}
+  Frame 779:
+    IDs disappeared: {148}
+  Frame 780:
+    New IDs appeared: {148}
+  Frame 783:
+    New IDs appeared: {149}
+  Frame 785:
+    IDs disappeared: {137}
+  Frame 786:
+    New IDs appeared: {137}
+  Frame 787:
+    IDs disappeared: {149}
+  Frame 788:
+    New IDs appeared: {149}
+  Frame 789:
+    New IDs appeared: {154}
+    IDs disappeared: {137}
+  Frame 792:
+    New IDs appeared: {155}
+  Frame 793:
+    IDs disappeared: {149}
+  Frame 794:
+    New IDs appeared: {156}
+  Frame 796:
+    New IDs appeared: {157}
+    IDs disappeared: {155}
+  Frame 797:
+    New IDs appeared: {155, 149}
+  Frame 799:
+    New IDs appeared: {159}
+    IDs disappeared: {149, 143}
+  Frame 800:
+    New IDs appeared: {149}
+  Frame 801:
+    IDs disappeared: {149, 159}
+  Frame 802:
+    New IDs appeared: {161}
+  Frame 804:
+    New IDs appeared: {162}
+    IDs disappeared: {161}
+  Frame 808:
+    IDs disappeared: {162}
+  Frame 809:
+    New IDs appeared: {164, 165}
+  Frame 810:
+    IDs disappeared: {165}
+  Frame 811:
+    IDs disappeared: {164}
+  Frame 812:
+    New IDs appeared: {164}
+  Frame 816:
+    IDs disappeared: {164}
+  Frame 817:
+    New IDs appeared: {168, 164}
+  Frame 818:
+    IDs disappeared: {164}
+  Frame 819:
+    New IDs appeared: {170, 164}
+  Frame 822:
+    IDs disappeared: {164}
+  Frame 823:
+    IDs disappeared: {147}
+  Frame 827:
+    New IDs appeared: {164}
+    IDs disappeared: {148}
+  Frame 828:
+    IDs disappeared: {164}
+  Frame 829:
+    New IDs appeared: {172}
+  Frame 831:
+    New IDs appeared: {173}
+  Frame 832:
+    IDs disappeared: {172}
+  Frame 833:
+    New IDs appeared: {148}
+  Frame 835:
+    New IDs appeared: {172}
+  Frame 836:
+    IDs disappeared: {172}
+  Frame 837:
+    New IDs appeared: {175}
+  Frame 839:
+    New IDs appeared: {172}
+    IDs disappeared: {154, 155}
+  Frame 840:
+    New IDs appeared: {154}
+  Frame 841:
+    IDs disappeared: {148}
+  Frame 844:
+    IDs disappeared: {172}
+  Frame 845:
+    New IDs appeared: {172}
+    IDs disappeared: {154}
+  Frame 846:
+    New IDs appeared: {154, 179}
+    IDs disappeared: {168}
+  Frame 848:
+    New IDs appeared: {168}
+  Frame 849:
+    New IDs appeared: {181}
+    IDs disappeared: {154}
+  Frame 850:
+    IDs disappeared: {181}
+  Frame 852:
+    New IDs appeared: {182}
+  Frame 854:
+    New IDs appeared: {183}
+  Frame 857:
+    IDs disappeared: {170}
+  Frame 859:
+    New IDs appeared: {184}
+  Frame 860:
+    IDs disappeared: {184}
+  Frame 865:
+    IDs disappeared: {172}
+  Frame 866:
+    New IDs appeared: {172}
+  Frame 867:
+    New IDs appeared: {184}
+    IDs disappeared: {172}
+  Frame 869:
+    IDs disappeared: {184, 156}
+  Frame 871:
+    New IDs appeared: {156}
+  Frame 872:
+    IDs disappeared: {156, 157}
+  Frame 873:
+    New IDs appeared: {157}
+  Frame 876:
+    IDs disappeared: {175}
+  Frame 877:
+    New IDs appeared: {175}
+  Frame 878:
+    IDs disappeared: {182}
+  Frame 879:
+    IDs disappeared: {168, 175}
+  Frame 880:
+    New IDs appeared: {182, 175}
+  Frame 881:
+    New IDs appeared: {168}
+    IDs disappeared: {182}
+  Frame 882:
+    IDs disappeared: {157}
+  Frame 883:
+    New IDs appeared: {182}
+    IDs disappeared: {173}
+  Frame 884:
+    New IDs appeared: {157}
+    IDs disappeared: {182}
+  Frame 885:
+    IDs disappeared: {157}
+  Frame 886:
+    IDs disappeared: {175}
+  Frame 887:
+    New IDs appeared: {175}
+  Frame 888:
+    New IDs appeared: {186}
+  Frame 889:
+    IDs disappeared: {183}
+  Frame 890:
+    New IDs appeared: {187, 188, 183}
+    IDs disappeared: {175}
+  Frame 891:
+    IDs disappeared: {188}
+  Frame 892:
+    New IDs appeared: {175}
+    IDs disappeared: {168, 183}
+  Frame 893:
+    New IDs appeared: {189}
+    IDs disappeared: {187}
+  Frame 894:
+    New IDs appeared: {187}
+  Frame 895:
+    IDs disappeared: {187, 175}
+  Frame 897:
+    New IDs appeared: {175}
+  Frame 898:
+    New IDs appeared: {187, 190}
+    IDs disappeared: {175}
+  Frame 902:
+    New IDs appeared: {192, 193}
+  Frame 903:
+    IDs disappeared: {193, 186}
+  Frame 905:
+    New IDs appeared: {186}
+  Frame 906:
+    IDs disappeared: {186, 187}
+  Frame 908:
+    New IDs appeared: {186}
+  Frame 909:
+    New IDs appeared: {187}
+  Frame 910:
+    New IDs appeared: {195}
+  Frame 911:
+    IDs disappeared: {187, 189}
+  Frame 912:
+    New IDs appeared: {187, 196, 189}
+  Frame 914:
+    IDs disappeared: {196, 189}
+  Frame 915:
+    New IDs appeared: {196, 189, 198}
+  Frame 916:
+    New IDs appeared: {199}
+    IDs disappeared: {196, 189}
+  Frame 917:
+    New IDs appeared: {196}
+    IDs disappeared: {195}
+  Frame 918:
+    New IDs appeared: {195}
+    IDs disappeared: {196}
+  Frame 920:
+    New IDs appeared: {196}
+  Frame 921:
+    IDs disappeared: {186}
+  Frame 922:
+    New IDs appeared: {186}
+  Frame 923:
+    IDs disappeared: {186}
+  Frame 924:
+    New IDs appeared: {186}
+    IDs disappeared: {187}
+  Frame 926:
+    IDs disappeared: {179}
+  Frame 927:
+    New IDs appeared: {201, 202, 179}
+  Frame 928:
+    IDs disappeared: {179}
+  Frame 931:
+    New IDs appeared: {203, 204}
+  Frame 933:
+    IDs disappeared: {196}
+  Frame 934:
+    New IDs appeared: {196, 206}
+  Frame 935:
+    New IDs appeared: {207}
+  Frame 936:
+    IDs disappeared: {204, 207}
+  Frame 937:
+    New IDs appeared: {204}
+  Frame 938:
+    New IDs appeared: {209}
+  Frame 939:
+    IDs disappeared: {201, 186, 209}
+  Frame 940:
+    New IDs appeared: {186}
+    IDs disappeared: {190}
+  Frame 941:
+    New IDs appeared: {210}
+    IDs disappeared: {186}
+  Frame 942:
+    New IDs appeared: {186}
+    IDs disappeared: {210}
+  Frame 943:
+    New IDs appeared: {201}
+    IDs disappeared: {186}
+  Frame 944:
+    IDs disappeared: {201, 204}
+  Frame 948:
+    New IDs appeared: {211}
+  Frame 949:
+    IDs disappeared: {211}
+  Frame 951:
+    New IDs appeared: {213}
+  Frame 952:
+    IDs disappeared: {202}
+  Frame 953:
+    New IDs appeared: {202}
+  Frame 959:
+    New IDs appeared: {209}
+    IDs disappeared: {213}
+  Frame 961:
+    IDs disappeared: {209}
+  Frame 962:
+    New IDs appeared: {210}
+  Frame 964:
+    IDs disappeared: {196}
+  Frame 965:
+    New IDs appeared: {211}
+    IDs disappeared: {192}
+  Frame 966:
+    IDs disappeared: {211}
+  Frame 968:
+    IDs disappeared: {195}
+  Frame 976:
+    IDs disappeared: {199}
+  Frame 977:
+    New IDs appeared: {214}
+  Frame 978:
+    New IDs appeared: {199}
+  Frame 980:
+    IDs disappeared: {214}
+  Frame 981:
+    IDs disappeared: {203}
+  Frame 983:
+    New IDs appeared: {203}
+
+Analysis complete!
+Annotated frames saved to: video_outputs\occlusion_analysis
+Report saved to: video_outputs\occlusion_analysis\occlusion_report.txt

@@ -1,0 +1,2 @@
+count=15
+line_y=360
